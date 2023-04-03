@@ -18,3 +18,4 @@ def start_game():
                     sys.exit()
                 game_loop()
         pygame.display.update()
+start_game()
